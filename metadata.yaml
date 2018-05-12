@@ -1,0 +1,50 @@
+_repo: Original-Photographs-Taken-on-the-Battlefields-during-the-Civil-War-of-the-United-States_43922
+_version: 0.1.0
+contributor:
+  compiler:
+    agent_name: Eaton, Edward Bailey
+    gutenberg_agent_id: '46699'
+    url: http://www.gutenberg.org/2009/agents/46699
+  photographers:
+  - agent_name: Brady, Mathew B.
+    aliases:
+    - Brady, Matthew B.
+    - Brady, M. B. (Mathew B.)
+    deathdate: 1896
+    gutenberg_agent_id: '42477'
+    url: http://www.gutenberg.org/2009/agents/42477
+  - agent_name: Gardner, Alexander
+    aliases:
+    - Gardner, Alex. (Alexander)
+    - Gardner, A. (Alexander)
+    birthdate: 1821
+    deathdate: 1882
+    gutenberg_agent_id: '42478'
+    url: http://www.gutenberg.org/2009/agents/42478
+covers:
+- cover_type: archival
+  image_path: 43922-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Miller, Francis Trevelyan
+    alias: Miller, Francis T.
+    birthdate: 1877
+    deathdate: 1959
+    gutenberg_agent_id: '309'
+    url: http://www.gutenberg.org/2009/agents/309
+description: ''
+gutenberg_issued: '2013-10-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43922'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Campaigns'
+- !lcc 'E456'
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Pictorial works'
+title: Original Photographs Taken on the Battlefields during the Civil War of the
+  United States
+url: http://www.gutenberg.org/ebooks/43922
